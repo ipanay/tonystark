@@ -37,5 +37,4 @@ jobs:
           user: ipanftp
           password: k3u8h4i7
           localDir: ./dist
-          remoteDir: wwwroot/public
-          options: "--delete --asci"
+          remoteDir: ./wwwroot/public
